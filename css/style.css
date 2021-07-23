@@ -1,1 +1,83 @@
-css
+.inline-block { 
+    display: inline-block; 
+    vertical-align: top; 
+    Font-Family: 'Roboto'; 
+    font-weight: 300; 
+    font-size: 100%;
+    outline: 1px solid red;
+ }
+
+
+
+
+.logo { 
+    width: 17%; 
+    padding:1%; 
+    vertical-align: top;
+    outline: 1px solid red;
+    
+}
+
+nav { 
+    width: 73%; 
+    padding: 1%;}
+
+ul { 
+    width:50%; 
+    margin-left: auto;}
+
+.heroImg {
+    height: 600px; 
+    padding:25px;
+    
+    outline: 1px solid red;
+}
+
+
+.content {background-image:  url("../images/HP_Background.jpg");
+    width:1200px;
+    height: 700px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    outline: 1px solid red;}
+
+.img1 {border-radius: 50%;
+border: 10px solid #5CECFF; 
+
+}
+
+.content {
+    width:800px; 
+    margin: 0 auto; 
+    padding: 15%;
+    Font-Family: 'Roboto';
+    
+}
+    
+
+
+h1 { 
+    display:inline-flex;
+    padding-left:75px;
+    Font-family: 'roboto'; 
+    font-weight: 500; 
+    font-size: 125%;}
+
+    h2 { 
+        Font-family: 'roboto'; 
+        font-weight: 700; 
+        font-size: 300%;
+        color: #5CECFF;}
+
+        h3 { 
+            Font-family: 'roboto'; 
+            font-weight: 700; 
+            font-size: 200%;}
+
+            p { 
+                Font-family: 'roboto'; 
+                font-weight: 400; 
+                font-size: 150%;
+                color: #5CECFF;}
+
+             
