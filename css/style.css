@@ -60,7 +60,7 @@
         background-size: cover;
         background-repeat: no-repeat;
         background-size: 98%;
-        outline: 1px solid red;
+        /*outline: 1px solid red;*/
 }
 
     .img1 {border-radius: 50%;
